@@ -1,2 +1,2 @@
 # project-pretty-derby
-project game berbasis python dengan menonjolkan konsep fisika
+project game dengan tema Pretty Derby berbasis python dengan menonjolkan konsep fisika gerak vertikal
